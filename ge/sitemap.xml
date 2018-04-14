@@ -3,79 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://anamamatelashvili.github.io/post/new-post/</loc>
+    <loc>/post/new-post/</loc>
     <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anamamatelashvili.github.io/en/post/new-post/"
+                href="/en/post/new-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ge"
-                href="https://anamamatelashvili.github.io/post/new-post/"
+                href="/post/new-post/"
                 />
   </url>
   
   <url>
-    <loc>https://anamamatelashvili.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anamamatelashvili.github.io/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ge"
-                href="https://anamamatelashvili.github.io/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://anamamatelashvili.github.io/post/</loc>
-    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://anamamatelashvili.github.io/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ge"
-                href="https://anamamatelashvili.github.io/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://anamamatelashvili.github.io/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://anamamatelashvili.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ge"
-                href="https://anamamatelashvili.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://anamamatelashvili.github.io/</loc>
+    <loc>/post/</loc>
     <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anamamatelashvili.github.io/en/"
+                href="/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ge"
-                href="https://anamamatelashvili.github.io/"
+                href="/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ge"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ge"
+                href="/"
                 />
   </url>
   
